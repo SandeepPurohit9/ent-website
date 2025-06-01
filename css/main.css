@@ -578,7 +578,7 @@ strong {
   color: var(--secondary-color);
   top: 25rem;
   bottom: 50rem;
-  right: 15px;
+  right: 0px;
   left: auto;
   text-align: left;
   min-width: 680px;
