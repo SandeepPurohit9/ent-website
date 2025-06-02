@@ -1657,5 +1657,12 @@ blockquote::before {
   .donate-form {
     padding: 25px;
   }
+
+  .navbar-brand {
+    font-size: var(--p-font-size); /* This will apply on mobile */
+  }
+  .logo{
+    display: none;
+  }
 }
 
